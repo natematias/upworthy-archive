@@ -1,1 +1,0 @@
-# Upworthy Research Archive
