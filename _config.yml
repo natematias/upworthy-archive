@@ -1,8 +1,8 @@
 title: The Upworthy Research Archive
-description:  Help us advance human understanding with this massive dataset of behavioral studies
+description: Advance human understanding with this massive dataset of behavioral studies
 logo: /assets/images/upworthy-archive-logo-orange-grey.png
 cornelllogo: /assets/images/cornell-cals-logo.png
 psulogo: /assets/images/psu-college-liberal-arts.png
 theme: jekyll-theme-minimal
 twitter:
-  card: summary
+  card: summary_large_image
