@@ -2,6 +2,9 @@
 layout: default
 title: The Upworthy Research Archive
 ---
+
+# The Upworthy Research Archive
+
 * [J. Nathan Matias](https://natematias.com), *Assistant Professor, Cornell University: co-lead*
 * [Kevin Munger](http://www.kevinmunger.com/), *Assistant Professor, Penn State University: co-lead*
 * [Marianne Aubin Le Quere](https://mariannealq.com/), *PhD student, Cornell University: data validation and documentation*
