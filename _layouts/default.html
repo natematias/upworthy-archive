@@ -21,22 +21,13 @@
         {% endif %}
 
 
-        <p class="view"><strong><a href="index">Introducing The Archive</a></strong></p>
-        <p class="view"><strong><a href="about-the-archive">Data In The Archive</a></strong></p>
+        <!--<p class="view"><strong><a href="index">Introducing The Archive</a></strong></p>
+        <p class="view"><strong><a href="about-the-archive">Data In The Archive</a></strong></p>-->
         <!--{% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
         -->
 
-        {% if site.cornelllogo %}
-          <img src="{{site.cornelllogo | relative_url}}" alt="Logo"  style="max-height:100px;"/>
-        {% endif %}
-
-        {% if site.psulogo %}
-          <img src="{{site.psulogo | relative_url}}" alt="Logo"  style="max-height:100px;"/>
-        {% endif %}
-
-        <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
 
         <!--{% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -56,6 +47,16 @@
 
       </section>
       <footer>
+        <hr/>
+        {% if site.cornelllogo %}
+          <img src="{{site.cornelllogo | relative_url}}" alt="Logo"  style="max-height:100px;"/>
+        {% endif %}
+
+        {% if site.psulogo %}
+          <img src="{{site.psulogo | relative_url}}" alt="Logo"  style="max-height:100px;"/>
+        {% endif %}
+
+        <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
