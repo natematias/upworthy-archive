@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Data in the Upworthy Research Archive
+image: /assets/images/upworthy-archive-logo-orange-grey.png
 ---
 
 # Data in the Upworthy Research Archive

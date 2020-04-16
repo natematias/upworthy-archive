@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Upworthy Research Archive
+image: /assets/images/upworthy-archive-logo-orange-grey.png
 ---
 
 # The Upworthy Research Archive
