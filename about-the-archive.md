@@ -66,9 +66,3 @@ Columns we are still researching, in conversation with former staff:
 * **updated_at**
 
 We have also been scraping Upworthy and the Internet Archive in search of supplementary information, including images. Since only some tests and packages can be supplemented in this way, we are doubtful that this data will be useful for confirmatory research. Please contact us if you think that these columns might be important to your research.
-
-## License 
-The Upworthy Research Archive is available through an agreement between Good/Upworthy and Cornell University. Cornell University is publishing the Upworthy Research Archive, all code in this repository, and documentation under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-![logo: Cornell University Department of Communication](assets/images/cornell-cals-logo.png)
-![logo: Penn State College of Liberal Arts](assets/images/psu-college-liberal-arts.png)

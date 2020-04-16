@@ -110,8 +110,3 @@ Kevin, Nathan, and Marianne are grateful to the following people and organizatio
 ## Disclaimer
 While we are very grateful to Good/Upworthy for donating this data for scientific and educational purposes, this project is independent from the company. This website does not speak for Good/Upworthy in any way.
 
-## License 
-The Upworthy Research Archive is available through an agreement between Good/Upworthy and Cornell University. Cornell University is publishing the Upworthy Research Archive, all code in this repository, and documentation under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-![logo: Cornell University Department of Communication](assets/images/cornell-cals-logo.png)
-![logo: Penn State College of Liberal Arts](assets/images/psu-college-liberal-arts.png)
