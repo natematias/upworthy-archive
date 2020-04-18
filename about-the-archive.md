@@ -32,6 +32,10 @@ To support time-series research, both datasets are a random sample stratified by
 
 ![illustration showing that the exploratory and confirmatory datasets are a random sample stratified by week number](assets/images/time-stratified-sample.png)
 
+## Selecting Headlines for Comparison
+We expect that many researchers will want to data-mine the archive for specific headline types and compare them to other headlines within the same tests. We created this task as a workshop and homework assignment for students in a Cornell class on the design and governance of experiments. Students were asked to meta-analyze the effect of including a notable person's name in a headline, and the effect of including a number in a headline. We offer the materials below as food for thought when developing your own data-mining approach:
+* Slides: [Asking Questions of the Upworthy Research Archive](https://upworthy.natematias.com/resources/lecture-15-asking-questions-of-the-upworthy-archive.pdf)
+* Example code in Python and R: [Sampling and Analyzing the Upworthy Archive Exploratory Dataset](https://github.com/natematias/design-governance-experiments/tree/master/assignments/upworthy-archive-project)
 
 ## Columns in the Upworthy Research Archive
 The dataset of `packages` contains the following columns:
@@ -67,3 +71,5 @@ Columns we are still researching, in conversation with former staff:
 * **updated_at**
 
 We have also been scraping Upworthy and the Internet Archive in search of supplementary information, including images. Since only some tests and packages can be supplemented in this way, we are doubtful that this data will be useful for confirmatory research. Please contact us if you think that these columns might be important to your research.
+
+
