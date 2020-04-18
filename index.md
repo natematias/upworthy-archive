@@ -72,7 +72,7 @@ Our process is slightly different from traditional Registered Reports in that we
 
 ## What if my favorite journal is unfamiliar with Registered Reports?
 
-Some journals may not be familiar with this process. Different disciplines have adopted Registered Reports at different rates. If an editor has a question about the process, ask them to email Charlie Ebersole (cebersole@virginia.edu), who will provide them with information.
+Some journals may not be familiar with this process. Different disciplines have adopted Registered Reports at different rates. If an editor has a question about the process, ask them to email Charlie Ebersole (cebersole@virginia.edu). Our colleagues at the [Center for Open Science](https://cos.io/) have offered to provide resources and guidance to editors as needed.
 
 ## What if my Registered Report is rejected by the journal?
 
