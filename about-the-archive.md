@@ -70,6 +70,7 @@ Columns we are still researching, in conversation with former staff:
 * **winner**
 * **updated_at**
 
+# Talk To Us Before You Scrape & Merge Data from the Web
 We have also been scraping Upworthy and the Internet Archive in search of supplementary information, including images. Since only some tests and packages can be supplemented in this way, we are doubtful that this data will be useful for confirmatory research. Please contact us if you think that these columns might be important to your research.
 
 
