@@ -48,12 +48,12 @@ Multiple comparisons and overfitting represent serious risks to scientific under
 We are providing an **Exploratory Dataset** of 4,873 experiments to support academic research and teaching. For researchers who plan to conduct confirmatory research that tests hypotheses, we are keeping a larger **Confirmatory Dataset** of 22,743 experiments in reserve.
 
 Here's the process for accessing the data:
-* Request the exploratory dataset. Everyone who asks will receive this data.
-* Use the exploratory data to develop a [registered report](https://cos.io/rr/) that includes a confirmatory hypothesis and analyis plan
-* Submit the registered report for peer review to an academic journal
-* When the journal agrees to publish the resulting paper, send us confirmation, along with the accepted registered report
-* We will the provide you with the confirmatory dataset
-* We ask all researchers to share your final analysis code with us, so we can write a paper about how the initial set of researchers used the Upworthy Research Archive
+1. Request the exploratory dataset. Everyone who asks will receive this data.
+2. Use the exploratory data to develop a [registered report](https://cos.io/rr/) that includes a confirmatory hypothesis and analyis plan
+3. Submit the registered report for peer review to an academic journal
+4. When the journal agrees to publish the resulting paper, send us confirmation, along with the accepted registered report
+5. We will the provide you with the confirmatory dataset
+6. We ask all researchers to share your final analysis code with us, so we can write a paper about how the initial set of researchers used the Upworthy Research Archive
 
 ## What is a Registered Report?
 
