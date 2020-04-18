@@ -33,7 +33,7 @@ We suggest the following references:
   * David Karpf's book puts Upworthy in its context in U.S. politics and contemporary context. It includes a chapter based on interviews with staff at Upworthy.
 * Fitts, Alexis Sobel. (2014) **[The king of content: How Upworthy aims to alter the Web, and could end up altering the world](https://archives.cjr.org/feature/the_king_of_content.php)**. Columbia Journalism Review.
     * This article, published partway through the dataset, includes details about how Upworthy founders and staff thought about and talked about their work in public.
-* Matias, J.N., Munger, K. (2019) **[The Upworthy Research Archive: A Time Series of 32,488 Experiments in U.S. Advocacy](https://osf.io/246yq/).** CODE@ MIT Conference
+* Matias, J.N., Munger, K. (2019) **[The Upworthy Research Archive: A Time Series of 32,488 Experiments in U.S. Advocacy](https://osf.io/246yq/).** CODE@ MIT Conference 
 
 ![venn diagram of Upworthy's focus on awesome, meaningful, visual content](assets/images/visual-meaningful-awesome.jpg)
 
@@ -41,7 +41,7 @@ We suggest the following references:
 
 **[About the Archive](about-the-archive)** contains a full description of the data, references and slides.
 
-## Confirmatory research with the archive
+## Confirmatory Research with the Upworthy Research Archive
 
 Multiple comparisons and overfitting represent serious risks to scientific understanding with a dataset of this size. By doing the extra work of supporting cross-validation, we hope to maximize the amount of highly-credible science that results from this this dataset.
 
@@ -50,10 +50,10 @@ We are providing an **Exploratory Dataset** of 4,873 experiments to support acad
 Here's the process for accessing the data:
 * Request the exploratory dataset. Everyone who asks will receive this data.
 * Use the exploratory data to develop a [registered report](https://cos.io/rr/) that includes a confirmatory hypothesis and analyis plan
-* submit the registered report for peer review to an academic journal
-* when the journal agrees to publish the resulting paper, send us confirmation, along with the accepted registered report
-* we will the provide you with the confirmatory dataset
-* we ask all researchers to share your final analysis code with us, so we can write a paper about how the initial set of researchers used the Upworthy Research Archive
+* Submit the registered report for peer review to an academic journal
+* When the journal agrees to publish the resulting paper, send us confirmation, along with the accepted registered report
+* We will the provide you with the confirmatory dataset
+* We ask all researchers to share your final analysis code with us, so we can write a paper about how the initial set of researchers used the Upworthy Research Archive
 
 ## What is a Registered Report?
 
@@ -82,7 +82,7 @@ Before sharing the confirmatory dataset for exploratory research, we will need y
 
 To prioritize confirmatory research, we will delay support for exploratory research until a first round of confirmatory research has been reviewed.
 
-## Sounds great—how do I get started?
+## Sounds great---how do I get started?
 
 For access to the Exploratory Dataset, email Charlie Ebersole (cebersole@virginia.edu). 
 
@@ -94,15 +94,15 @@ Our team can help you assess the potential scientific value of your archives and
 ## How can I use the archive with my students?
 J. Nathan Matias has developed a first draft of open educational resources for undergraduate classes. Please contact Nathan if you are interested to use the archive for your class.
 
-## Advisory board
-<!--* Dr. [Helen Margetts](https://www.oii.ox.ac.uk/people/helen-margetts/) is is Professor of Society and the Internet and Professorial Fellow at Mansfield College, Oxford.-->
-* Dr. [David Karpf](https://smpa.gwu.edu/david-karpf) is an associate professor in the School of Media and Public Affairs at the George Washington University.
-* TBD
+## Advisory Board
+* Dr. [Helen Margetts](https://www.oii.ox.ac.uk/people/helen-margetts/) is is Professor of Society and the Internet and Professorial Fellow at Mansfield College, Oxford.
+* Dr. [David Karpf](https://smpa.gwu.edu/david-karpf) is an associate professor in the School of Media and Public Affairs at George Washington University
+* Dr. [Brian Nosek](https://www.projectimplicit.net/nosek/) is a professor in the Department of Psychology at the University of Virginia.
 
 ## Acknowledgments
 Kevin, Nathan, and Marianne are grateful to the following people and organizations for providing key support and input in the creation of the Upworthy Research Archive.
 * Good/Upworthy
-* Any Morris
+* Andy Morris
 * Andrew Singh
 * Rajni Aneja
 * Matt Salganik
@@ -110,4 +110,3 @@ Kevin, Nathan, and Marianne are grateful to the following people and organizatio
 
 ## Disclaimer
 While we are very grateful to Good/Upworthy for donating this data for scientific and educational purposes, this project is independent from the company. This website does not speak for Good/Upworthy in any way.
-
