@@ -9,7 +9,7 @@ image: /assets/images/upworthy-archive-logo-orange-grey.png
 * [J. Nathan Matias](https://natematias.com), *Assistant Professor, Cornell University: co-lead*
 * [Kevin Munger](http://www.kevinmunger.com/), *Assistant Professor, Penn State University: co-lead*
 * [Marianne Aubin Le Quere](https://mariannealq.com/), *PhD student, Cornell University: data validation and documentation*
-* [Charlies Ebersole](http://charlesrebersole.weebly.com/), *Postdoc, University of Virginia: data controller*
+* [Charles Ebersole](http://charlesrebersole.weebly.com/), *Postdoc, University of Virginia: data controller*
 
 **The Upworthy Research Archive is an open dataset of thousands of A/B tests of headlines conducted by Upworthy from January 2013 to April 2015.** At the time of release, it is the largest open-access collection of randomized behavioral studies openly available for research and education. We hope it doesn't stay that way for long (see below if you wish to contribute data).
 
