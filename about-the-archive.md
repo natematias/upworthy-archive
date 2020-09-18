@@ -62,13 +62,13 @@ Miscellaneous columns that may be of interest. To our knowledge, none of these c
 * **slug**: internal name for the web address
 * **share_text**: summary for display on social media when the article is shared. This was not shown in tests, since tests were conducted on the Upworthy website
 
-Columns we are still researching, in conversation with former staff:
+Columns we learned about through conversations with former staff:
 
-* **square**
-* **significance**
-* **first_place**
-* **winner**
-* **updated_at**
+* **square**: when used, part of the same social media sharing suggestion as the share text
+* **significance**: NOT an estimate of statistical significance; former employees were unable to recover the method used to generate thist figure
+* **first_place**: Along with significance, shown to editors to guide decisions about what test to choose
+* **winner**: Whether a package was selected by editors to be used on the Upworthy site after the test
+* **updated_at**: The last time the package was updated in the Upworthy system
 
 # Talk To Us Before You Scrape & Merge Data from the Web
 We have also been scraping Upworthy and the Internet Archive in search of supplementary information, including images. Since only some tests and packages can be supplemented in this way, we are doubtful that this data will be useful for confirmatory research. Please contact us if you think that these columns might be important to your research.
