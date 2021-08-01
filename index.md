@@ -27,6 +27,10 @@ We expect that this dataset will help advance knowledge in many fields, includin
 * **Computer Science** research in machine learning and cybersecurity
 * **Meta-scientific questions** about the knowledge from behavioral experiments and how useful they are at predicting future outcomes
 
+## How do I cite the archive?
+If you use the archive, please cite the data descriptor we have published with Nature Scientific Data:
+* Matias, J., Munger, K., Le Quere, M.A., Ebersole, C. (2021) [The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.1038/s41597-021-00934-7). Nature Scientific Data.
+
 ## How can I learn more about Upworthy?
 We suggest the following references:
 * Karpf, D. (2016). **[Analytic activism: Digital listening and the new political strategy](https://global.oup.com/academic/product/analytic-activism-9780190266134?cc=us&lang=en&)**. Oxford University Press.
@@ -43,17 +47,11 @@ We suggest the following references:
 
 ## Confirmatory Research with the Upworthy Research Archive
 
-Multiple comparisons and overfitting represent serious risks to scientific understanding with a dataset of this size. By doing the extra work of supporting cross-validation, we hope to maximize the amount of highly-credible science that results from this this dataset.
+Multiple comparisons and overfitting represent serious risks to scientific understanding with a dataset of this size. By doing the extra work of supporting cross-validation, we hope to maximize the amount of highly-credible science that results from this this dataset. For that reason, we have structured the data to support researchers to develop registered reports for research projects.
 
-We are providing an **Exploratory Dataset** of 4,873 experiments to support academic research and teaching. For researchers who plan to conduct confirmatory research that tests hypotheses, we are keeping a larger **Confirmatory Dataset** of 22,743 experiments in reserve.
+We are providing an **Exploratory Dataset** of 4,873 experiments to support academic research and teaching. For researchers who plan to conduct confirmatory research that tests hypotheses, we are keeping a larger **Confirmatory Dataset** of 22,743 experiments in reserve. During the period until we released the dataset publicly in August 2021, we also retained a holdout dataset for a meta-scientific study with the Center for Open Science.
 
-Here's the process for accessing the data:
-1. Request the exploratory dataset. Everyone who asks will receive this data.
-2. Use the exploratory data to develop a [registered report](https://cos.io/rr/) that includes a confirmatory hypothesis and analyis plan
-3. Submit the registered report for peer review to an academic journal
-4. When the journal agrees to publish the resulting paper, send us confirmation, along with the accepted registered report
-5. We will the provide you with the confirmatory dataset
-6. We ask all researchers to share your final analysis code with us, so we can write a paper about how the initial set of researchers used the Upworthy Research Archive
+The full dataset, with all parts, may now be accessed on the Open Science Framework at [https://osf.io/jd64p/]( https://osf.io/jd64p/)
 
 ## What is a Registered Report?
 
@@ -61,30 +59,10 @@ To learn more, see [the Center for Open Science introduction to registered repor
 
 Generally, Registered Reports are form of "results-blind" peer review. A journal will evaluate the submission in terms of the appropriateness of the analysis strategy for addressing the theoretical question.
 
-With the Upworthy Research Archive, researchers can use the Exploratory Dataset to understand the structure of the data and write code to analyze it. Journals will then review the scientific merit of the Registered Report, and if they agree to publish it, the code will be run on the Confirmatory dataset to produce the final results.
-
-## What journals accept Registered Reports?
+With the Upworthy Research Archive, researchers can use the Exploratory Dataset to understand the structure of the data and write code to analyze it. Journals will then review the scientific merit of the Registered Report, and if they agree to publish it, the code can be run on the Confirmatory dataset to produce the final results.
 
 To date, 242 academic journals have published Registered Reports. The full list can be found [here,](https://cos.io/rr/) under the "Participating Journals" tab.
 
-
-Our process is slightly different from traditional Registered Reports in that we will act as the data managers. This is not the first example of this model; the [Attitudes, Identities, and Individual Differences (AIID) Study and Dataset](https://osf.io/pcjwf/) successfully pioneered the use of a central Confirmatory dataset for Registered Reports.
-
-## What if my favorite journal is unfamiliar with Registered Reports?
-
-Some journals may not be familiar with this process. Different disciplines have adopted Registered Reports at different rates. If an editor has a question about the process, ask them to email Charlie Ebersole (cebersole@virginia.edu). Our colleagues at the [Center for Open Science](https://cos.io/) have offered to provide resources and guidance to editors as needed.
-
-## What if my Registered Report is rejected by the journal?
-
-You're welcome to submit to another journal using the same process, but if at this point you decide you'd like to produce exploratory research, we can share the confirmatory dataset.
-
-Before sharing the confirmatory dataset for exploratory research, we will need you to agree not to share this data with anyone before we decide to end the Registered Reports initiative. You will also need to acknowledge in any paper that your analysis is exploratory.
-
-To prioritize confirmatory research, we will delay support for exploratory research until a first round of confirmatory research has been reviewed.
-
-## Sounds great---how do I get started?
-
-For access to the Exploratory Dataset, email Charlie Ebersole (cebersole@virginia.edu). 
 
 ## I operate a publisher and want to add to the archive by donating our historical A/B tests
 We live in a time of unprecedented behavioral research by news publishers, advertisers, and tech companies. By donating your historical A/B tests, you can contribute to education and to breakthroughs across multiple scientific fields. 
