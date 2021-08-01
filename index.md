@@ -13,7 +13,12 @@ image: /assets/images/upworthy-archive-logo-orange-grey.png
 
 **The Upworthy Research Archive is an open dataset of thousands of A/B tests of headlines conducted by Upworthy from January 2013 to April 2015.** At the time of release, it is the largest open-access collection of randomized behavioral studies openly available for research and education. We hope it doesn't stay that way for long (see below if you wish to contribute data).
 
-Project announcement: **[Announcing the Upworthy Research Archive: Help us advance human understanding by studying this massive dataset of headline A/B tests](https://medium.com/@natematias/announcing-the-upworthy-research-archive-c9b11087ddeb)**
+We have published a data descriptor with Nature Scientific Data that fully describes the dataset and includes validation information:
+
+* Matias, J., Munger, K., Le Quere, M.A., Ebersole, C. (2021) **[The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.1038/s41597-021-00934-7).** Nature Scientific Data.
+
+## In the News
+* Original project announcement: **[Announcing the Upworthy Research Archive: Help us advance human understanding by studying this massive dataset of headline A/B tests](https://natematias.medium.com/announcing-the-upworthy-research-archive-c9b11087ddeb)**
 
 ## What can I do with the Upworthy Research Archive?
 
@@ -26,10 +31,6 @@ We expect that this dataset will help advance knowledge in many fields, includin
 * **Statistical** advances on the analysis of experiments
 * **Computer Science** research in machine learning and cybersecurity
 * **Meta-scientific questions** about the knowledge from behavioral experiments and how useful they are at predicting future outcomes
-
-## How do I cite the archive?
-If you use the archive, please cite the data descriptor we have published with Nature Scientific Data:
-* Matias, J., Munger, K., Le Quere, M.A., Ebersole, C. (2021) [The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.1038/s41597-021-00934-7). Nature Scientific Data.
 
 ## How can I learn more about Upworthy?
 We suggest the following references:
