@@ -6,9 +6,11 @@ image: /assets/images/upworthy-archive-logo-orange-grey.png
 
 # Data in the Upworthy Research Archive
 
-[The Upworthy Research Archive](index) is a dataset of headline A/B tests conducted by Upworthy from early 2013 into April 2015. This page documents the archive, which is available on the Open Science Framework at [https://osf.io/jd64p/](osf.io/jd64p/). We have also published an academic paper that reports the details of the archive and our work to validate the data. Please cite this paper when using the archive.
+[The Upworthy Research Archive](index) is a dataset of headline A/B tests conducted by Upworthy from early 2013 into April 2015. This page documents the archive and provides an FAQ. We have also published an academic paper that reports the details of the archive and our work to validate the data. Please cite this paper when using the archive.
 
 * Matias, J., Munger, K., Le Quere, M.A., Ebersole, C. (2021) [The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.1038/s41597-021-00934-7). Nature Scientific Data.
+
+You can download the archive on the Open Science Framework at **[https://osf.io/jd64p/](osf.io/jd64p/)**.
 
 ## Background
 For background on the Upworthy Archive, please consult and cite the following sources:
