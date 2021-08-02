@@ -15,7 +15,7 @@ image: /assets/images/upworthy-archive-logo-orange-grey.png
 
 We have published a data descriptor with Nature Scientific Data that fully describes the dataset and includes validation information:
 
-* Matias, J., Munger, K., Le Quere, M.A., Ebersole, C. (2021) **[The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.1038/s41597-021-00934-7).** Nature Scientific Data.
+* Matias, J., Munger, K., Aubin Le Quere, M., Ebersole, C. (2021) **[The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.1038/s41597-021-00934-7).** Nature Scientific Data.
 
 ## In the News
 * Original project announcement: **[Announcing the Upworthy Research Archive: Help us advance human understanding by studying this massive dataset of headline A/B tests](https://natematias.medium.com/announcing-the-upworthy-research-archive-c9b11087ddeb)**
