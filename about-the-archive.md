@@ -10,7 +10,7 @@ image: /assets/images/upworthy-archive-logo-orange-grey.png
 
 * Matias, J., Munger, K., Le Quere, M.A., Ebersole, C. (2021) [The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.1038/s41597-021-00934-7). Nature Scientific Data.
 
-You can download the archive on the Open Science Framework at **[https://osf.io/jd64p/](osf.io/jd64p/)**.
+You can download the archive on the Open Science Framework at **[osf.io/jd64p/](https://osf.io/jd64p/)**.
 
 ## Background
 For background on the Upworthy Archive, please consult and cite the following sources:
