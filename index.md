@@ -54,6 +54,29 @@ We are providing an **Exploratory Dataset** of 4,873 experiments to support acad
 
 The full dataset, with all parts, may now be accessed on the Open Science Framework at [https://osf.io/jd64p/]( https://osf.io/jd64p/)
 
+## Impact
+The following projects are just some of the scholarly projects that cite or draw on the Upworthy Archive in some way:
+
+### Scientific Studies Using the Archive
+
+* Larsen, N., Stallrich, J., Sengupta, S., Deng, A., Kohavi, R., & Stevens, N. T. (2024). [Statistical challenges in online controlled experiments: A review of a/b testing methodology](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2257237). The American Statistician, 78(2), 135-149.
+* Shulman, H. C., Markowitz, D. M., & Rogers, T. (2024). [Reading dies in complexity: Online news consumers prefer simple writing](https://www.science.org/doi/full/10.1126/sciadv.adn2555). Science Advances, 10(23), eadn2555.
+* Gligorić, K., Lifchits, G., West, R., & Anderson, A. (2023). [Linguistic effects on news headline success: Evidence from thousands of online field experiments](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281682) (Registered Report). Plos one, 18(3), e0281682.
+
+### Textbooks
+* Alexander, R. (2023). [Telling Stories with Data: With Applications in R](https://www.taylorfrancis.com/books/mono/10.1201/9781003229407/telling-stories-data-rohan-alexander). Chapman and Hall/CRC.
+
+### Guidance on Science Overall
+* Robertson, C. E., Pröllochs, N., Schwarzenegger, K., Pärnamets, P., Van Bavel, J. J., & Feuerriegel, S. (2023). [Negativity drives online news consumption](https://www.nature.com/articles/s41562-023-01538-4). Nature Human Behaviour, 7(5), 812-822.
+* Polonioli, A., Ghioni, R., Greco, C., Juneja, P., Tagliabue, J., Watson, D., & Floridi, L. (2023). [The Ethics of Online Controlled Experiments (A/B Testing)](https://link.springer.com/article/10.1007/s11023-023-09644-y). Minds and Machines, 1-27.
+
+### Statistical Advances
+* Wu, J. J., Mazzuchi, T. A., & Sarkani, S. (2023). [Comparison of multi-criteria decision-making methods for online controlled experiments in a launch decision-making framework](https://www.sciencedirect.com/science/article/pii/S0950584922002245?casa_token=ze3TjmIH1gsAAAAA:EUrtXfKFp654J7rdc7R2AeabtyYUPd1WumZVJYGyfZzTfhShoIGq2td40zEvhdaDp6bBPrrLq4U). Information and Software Technology, 155, 107115.
+
+### Other Data Releases
+* Crabtree, C., Kim, J. Y., Gaddis, S. M., Holbein, J. B., Guage, C., & Marx, W. W. (2023). [Validated names for experimental studies on race and ethnicity](https://www.nature.com/articles/s41597-023-01947-0). Scientific data, 10(1), 130.
+
+
 ## What is a Registered Report?
 
 To learn more, see [the Center for Open Science introduction to registered reports](https://cos.io/rr/).
