@@ -6,8 +6,8 @@ image: /assets/images/upworthy-archive-logo-orange-grey.png
 
 # The Upworthy Research Archive
 
-* [J. Nathan Matias](https://natematias.com), *Assistant Professor, Cornell University: co-lead*
-* [Kevin Munger](http://www.kevinmunger.com/), *Assistant Professor, Penn State University: co-lead*
+* [J. Nathan Matias](https://natematias.com), *Assistant Professor, Cornell University: co-lead* (ongoing contact)
+* [Kevin Munger](http://www.kevinmunger.com/), *Assistant Professor, Penn State University: co-lead* (ongoing contact)
 * [Marianne Aubin Le Quere](https://mariannealq.com/), *PhD student, Cornell University: data validation and documentation*
 * [Charles Ebersole](http://charlesrebersole.weebly.com/), *Postdoc, University of Virginia: data controller*
 
