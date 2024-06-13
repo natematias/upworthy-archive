@@ -17,7 +17,7 @@ That's a question that our team (me, Marianne Aubin Le Quéré, and Kevin Munger
 
 Starting in 2018, the three of us worked with Upworthy, which was famous for conducting A/B tests on headlines, to archive, document, and publish over thirty-two thousand behavioral studies conducted over more than two years. We think it may still be the largest open archive of randomized trials in the social sciences. Since we published the archive in Scientific Data, dozens of researchers have worked with the data, incorporating it into leading scientific studies, textbooks, and fundamental work in statistics.
 
-We found possible issues with 22% of the A/B tests, but thankfully, no published scientific findings have been materially affected to our knowledge
+> We found possible issues with 22% of the A/B tests, but thankfully, no published scientific findings have been materially affected to our knowledge
 
 A year ago, one of those scientists contacted us about an anomaly he had noticed---possible evidence that some of the A/B tests might not have been randomly assigned as we had assumed. If true, this could be huge---and might unravel the science that relied on the archive. This post is the story of how we investigated the issue, alerted scientists about the problems, and collectively re-analyzed our research. We found possible issues with 22% of the A/B tests, but thankfully, no findings have been materially affected.
 
