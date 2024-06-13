@@ -17,7 +17,8 @@ We have published a data descriptor with Nature Scientific Data that fully descr
 
 * Matias, J., Munger, K., Aubin Le Quere, M., Ebersole, C. (2021) **[The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.1038/s41597-021-00934-7).** Nature Scientific Data.
 
-## In the News
+## News and Updates
+* Critical update June 2024: **[Ensuring Reliable Science from Platform A/B Test Archives - an Update to the Upworthy Archive](2024-06-upworthy-archive-update.html)**
 * Original project announcement: **[Announcing the Upworthy Research Archive: Help us advance human understanding by studying this massive dataset of headline A/B tests](https://natematias.medium.com/announcing-the-upworthy-research-archive-c9b11087ddeb)**
 
 ## What can I do with the Upworthy Research Archive?
@@ -58,7 +59,9 @@ The full dataset, with all parts, may now be accessed on the Open Science Framew
 The following projects are just some of the scholarly projects that cite or draw on the Upworthy Archive in some way:
 
 ### Scientific Studies Using the Archive
-
+* Robertson, C. E., Pröllochs, N., Schwarzenegger, K., Pärnamets, P., Van Bavel, J. J., & Feuerriegel, S. (2023). [Negativity drives online news consumption](https://www.nature.com/articles/s41562-023-01538-4). Nature Human Behaviour, 7(5), 812-822.
+  * Robertson, Claire (2023) [Two research teams submitted the same paper to Nature - You won't BELIEVE what happens next!!](https://communities.springernature.com/posts/two-research-teams-submitted-the-same-paper-to-nature-you-won-t-believe-what-happens-next). Springer Nature Research Communities.
+  * Benton, J. (2023) [Negative words in news headlines generate more clicks — but sad words are more effective than angry or scary ones](https://www.niemanlab.org/2023/03/negative-words-in-news-headlines-generate-more-clicks-but-sad-words-are-more-effective-than-angry-or-scary-ones/). Nieman Lab.
 * Larsen, N., Stallrich, J., Sengupta, S., Deng, A., Kohavi, R., & Stevens, N. T. (2024). [Statistical challenges in online controlled experiments: A review of a/b testing methodology](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2257237). The American Statistician, 78(2), 135-149.
 * Shulman, H. C., Markowitz, D. M., & Rogers, T. (2024). [Reading dies in complexity: Online news consumers prefer simple writing](https://www.science.org/doi/full/10.1126/sciadv.adn2555). Science Advances, 10(23), eadn2555.
 * Gligorić, K., Lifchits, G., West, R., & Anderson, A. (2023). [Linguistic effects on news headline success: Evidence from thousands of online field experiments](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281682) (Registered Report). Plos one, 18(3), e0281682.

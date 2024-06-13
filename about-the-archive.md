@@ -18,6 +18,12 @@ For background on the Upworthy Archive, please consult and cite the following so
    * Medium post: [Announcing the Upworthy Research Archive](https://medium.com/@natematias/announcing-the-upworthy-research-archive-c9b11087ddeb)
 * Matias, J.N. Aubin Le Quere, M. (2020) **[Asking Questions of the Upworthy Research Archive](resources/lecture-15-asking-questions-of-the-upworthy-archive.pdf)**, a slide deck from Matias's field experiments class. This deck includes advice on meta-analyzing the archive.
 
+## Potentially Invalid Randomization June 2013 - Jan 2014
+In June 2024, the team published an update with evidence of systematic randomization problems in 22% of A/B tests. Working with the authors of six peer reviewed studies based on our work, we found that no prior findings were materially affected. **We discourage confirmatory researchers from using experiments conducted between June 25, 2013 and January 10 2014.** 
+
+The following post includes more information and guidance for authors going forward. We have also updated the Data Descriptor at Scientific Data to reflect this update, and have added the `randomization_imbalace_risk` column (documented below) to the data to indicate A/B tests that we believe are likely affected.
+* **[Ensuring Reliable Science from Platform A/B Test Archives - an Update to the Upworthy Archive](2024-06-upworthy-archive-update.html)**
+
 ## Units of Observation
 
 The Upworthy Research Archive contains `packages` within `tests`. On Upworthy, packages are bundles of headlines and images that were randomly assigned to people on the website as part of a test. Tests can include many packages.
@@ -50,6 +56,7 @@ Time-related columns:
 
 Experiment-related columns:
 * **clickability_test_id**: the test ID. Viewers were randomly assigned to packages with the same test ID
+* **problem** (0/1): set to 1 if the researchers believe the randomization for a given test was likely to have a randomization problem (see [this page](2024-06-upworthy-archive-update.html) for more details). This value is set to 1 for all tests between June 25, 2013 and January 10, 2014.
 * **impressions**: the number of viewers who were assigned to this package. The total number of participants for a given test is the sum of `impressions` for all packages that share the same `clickability_test_id`. 
 
 
