@@ -70,7 +70,7 @@ Why This Update is a Win for Science
 
 When teaching science, we tell our students that the most reliable findings are ones that have been reproduced repeatedly. Before the existence of projects like the Upworthy Archive, we largely taught this as a theoretical idea. As a [recent article in The American Statistician](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2257237) points out, our archive is one of the only very large datasets of social and behavioral experiments ever to be released. By discovering this glitch, we had a chance to see if what we teach in theory would be true in practice.
 
-Our story had a happy ending, but the next A/B test archive could just as easily pollute the scientific record as improve it
+> Our story had a happy ending, but the next A/B test archive could just as easily pollute the scientific record as improve it
 
 I'm confident that every research team re-visited their analysis with the willingness to update their conclusions if their results were substantially influenced by the glitch in Upworthy's cache. Yet statistically speaking, any meaningful finding that emerged from more than twenty-five thousand experiments would be hard to overturn with just a few thousand more. Science is the search for repeatable knowledge, and when you use statistical techniques designed to reveal repeatable knowledge, they can survive problems like this one.
 
@@ -81,7 +81,7 @@ Lessons for Future Releases of Experiment Archives
 
 The Upworthy Archive is likely just the first of a new collection of A/B testing archives that we can expect in coming years. In Europe, regulators are debating whether the Digital Services Act might require companies to release their A/B testing archives. And when a [new law comes into effect](https://www.techpolicy.press/experiments-are-the-best-kind-of-transparency/) in Minnesota in 2025, tech firms will be required to release their A/B test archives for public scrutiny in ways that protect privacy.
 
-efforts to routinely publish A/B testing archives should also invest in the resources to carefully document and validate the reliability of those archives
+> efforts to routinely publish A/B testing archives should also invest in the resources to carefully document and validate the reliability of those archives
 
 Whether organizations voluntarily publish their archives or regulators for them to do so, the lesson of the Upworthy Archive is that they can make significant contributions to society and to science. But just as with any records, we should trust but verify. Our story had a happy ending, but the next A/B test archive could just as easily pollute the scientific record as improve it.
 
