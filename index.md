@@ -65,7 +65,7 @@ The following projects are just some of the scholarly projects that cite or draw
 * Larsen, N., Stallrich, J., Sengupta, S., Deng, A., Kohavi, R., & Stevens, N. T. (2024). [Statistical challenges in online controlled experiments: A review of a/b testing methodology](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2257237). The American Statistician, 78(2), 135-149.
 * Shulman, H. C., Markowitz, D. M., & Rogers, T. (2024). [Reading dies in complexity: Online news consumers prefer simple writing](https://www.science.org/doi/full/10.1126/sciadv.adn2555). Science Advances, 10(23), eadn2555.
 * Gligorić, K., Lifchits, G., West, R., & Anderson, A. (2023). [Linguistic effects on news headline success: Evidence from thousands of online field experiments](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281682) (Registered Report). Plos one, 18(3), e0281682.
-
+* Banerjee, A., & Urminsky, O. (2024). [The language that drives engagement: a systematic large-scale analysis of headline experiments](https://pubsonline.informs.org/doi/full/10.1287/mksc.2021.0018). Marketing Science.
 ### Textbooks
 * Alexander, R. (2023). [Telling Stories with Data: With Applications in R](https://www.taylorfrancis.com/books/mono/10.1201/9781003229407/telling-stories-data-rohan-alexander). Chapman and Hall/CRC.
 
